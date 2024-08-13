@@ -20,15 +20,15 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "26227355"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url https://youtu.be/qFB0cFqiyOM?si=9rfd9AawasXLp_oE",
-      "value": "url"
+      "value": "mongodb+srv://vrtuniverse:<password>@cluster0.qbfmgoc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "ultroidxTeam"
+      "value": "vrtart"
     },
     "SHORTLINK_URL":{
       "description": "Enter your SHORTLINK_URL , add yr shortner url . ",
@@ -40,7 +40,7 @@
     },
     "IS_VERIFY":{
       "description": "True= (on)or False = (off) , value = True/False ",
-      "value": "True"
+      "value": "False"
     },
     "VERIFY_EXPIRE":{
       "description": "yr token timeout in seconds, 86400 = 24h",
@@ -48,15 +48,15 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "d5f160bd8f2790d9426313c64f8b5cef"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1002194707874"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1002166974544"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
